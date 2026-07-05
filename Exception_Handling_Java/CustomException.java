@@ -1,6 +1,4 @@
-// -----------------------------------------------------
-// Using a Custom Exception in Java
-// -----------------------------------------------------
+
 
 public class CustomExceptionDemo {
 
