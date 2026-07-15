@@ -1,6 +1,4 @@
-// -----------------------------------------------------
-// Basic Exception Handling using try-catch-finally
-// -----------------------------------------------------
+
 
 public class TryCatchDemo {
 
