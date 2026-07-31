@@ -1,6 +1,7 @@
 
 
 public class CustomExceptionDemo {
+    
 
     public static void validateAge(int age) throws CustomException {
         if (age < 0 || age > 120) {
