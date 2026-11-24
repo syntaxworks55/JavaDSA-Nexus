@@ -1,6 +1,6 @@
 
 
-public class CustomExceptionDemo {
+public class CustomExceptionDemo{
     
 
     public static void validateAge(int age) throws CustomException {
